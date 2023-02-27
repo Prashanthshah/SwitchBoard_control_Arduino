@@ -5,7 +5,7 @@
 #include <ArduinoJson.h>
 #define LED1 D0
 #define LED2 D8
-
+//ssid & password
 const char* ssid = "sHAH";
 const char* password = "12345678";
 
